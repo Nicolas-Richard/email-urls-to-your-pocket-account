@@ -7,7 +7,7 @@ I run on it on my Android phone using the app QPython.
 
 All the URLs of articles from the print edition can be found each week on : www.economist.com/printedition/.
 
-I'm interested in reading the articles from the section 'Leaders'. This section of the page as a special identifier : id="section-69"
+I'm interested in reading the articles from the section 'Leaders'. This section of the page as a special identifier : id="section-69".
 I'm using the Python module BeautifulSoup to parse the HTML content and find the links.
 
 I then send the links to Pocket through my gmail account.
